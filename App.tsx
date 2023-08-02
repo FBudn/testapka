@@ -27,7 +27,7 @@ import {
 
 import StorybookUIRoot from './.storybook';
 
-const StorybookApp = 'false';
+const StorybookApp = 'true';
 
 type SectionProps = PropsWithChildren<{
   title: string;
